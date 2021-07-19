@@ -30,4 +30,9 @@ public class Calculadora {
 
 		return a / b;
 	}
+	
+	public Double calcularRaizQuadrada(Double a) {
+		
+		return Math.sqrt(a);
+	}
 }
