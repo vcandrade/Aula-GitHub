@@ -9,5 +9,6 @@ public class Teste {
 		Calculadora calc = new Calculadora("Casio", "FX-82ESPLUS");
 		System.out.println("Soma: " + calc.somar(10.0, 5.0));
 		System.out.println("Subtração : " + calc.subtrair(10.0, 5.0));
+		System.out.println("Multiplicação : " + calc.multiplicar(10.0, 5.0));
 	}
 }

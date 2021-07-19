@@ -20,4 +20,9 @@ public class Calculadora {
 
 		return a - b;
 	}
+	
+	public Double multiplicar(Double a, Double b) {
+
+		return a * b;
+	}
 }
