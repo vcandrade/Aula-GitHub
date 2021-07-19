@@ -25,4 +25,9 @@ public class Calculadora {
 
 		return a * b;
 	}
+	
+	public Double dividir(Double a, Double b) {
+
+		return a / b;
+	}
 }
