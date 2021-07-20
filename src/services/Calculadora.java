@@ -35,4 +35,9 @@ public class Calculadora {
 		
 		return Math.sqrt(x);
 	}
+	
+	public Double calcularPotencia(Double a, Double b) {
+		
+		return Math.pow(a, b);
+	}
 }

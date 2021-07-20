@@ -12,5 +12,6 @@ public class Teste {
 		System.out.println("Multiplicação : " + calc.multiplicar(10.0, 5.0));
 		System.out.println("Divisão : " + calc.dividir(10.0, 5.0));
 		System.out.println("Raiz Quadrada : " + calc.calcularRaizQuadrada(9.0));
+		System.out.println("Raiz Quadrada : " + calc.calcularPotencia(5.0, 3.0));
 	}
 }
