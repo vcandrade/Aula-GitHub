@@ -31,8 +31,8 @@ public class Calculadora {
 		return a / b;
 	}
 	
-	public Double calcularRaizQuadrada(Double a) {
+	public Double calcularRaizQuadrada(Double x) {
 		
-		return Math.sqrt(a);
+		return Math.sqrt(x);
 	}
 }
